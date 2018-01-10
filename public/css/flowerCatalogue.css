@@ -1,0 +1,35 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  border-top: 1px solid black;
+  border-bottom: 2px solid black;
+  text-align: right;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 5px;
+  color: #f57806;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  padding-right: 150px;
+  font-size: 20px
+}
+
+img.flower {
+  height: 70%;
+  width: 70%;
+  float: left;
+  margin-left: 100px;
+  margin-right: 50px;
+}
+
+ul {
+  text-overflow: ellipsis;
+  margin-top: 130px;
+  border-left: 200px
+}
+
+#waterJar {
+  float: none;
+}
